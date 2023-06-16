@@ -18,7 +18,7 @@ public class CounterTest {
 		
 		assertEquals(testCounter.getCount(), 0);
 	}
-
+ 
 	@Test
 	public void testIncrement() {
 		Counter testCounter = new Counter();
